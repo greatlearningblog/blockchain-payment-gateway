@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Blockchain Payment Gateway</title>
+</head>
+<body>
+  <h1>Blockchain Payment Gateway</h1>
+  <div id="contract-info">
+    <p>Contract Address: <span id="contract-address"></span></p>
+    <p>Owner: <span id="contract-owner"></span></p>
+    <p>Contract Balance: <span id="contract-balance"></span> ETH</p>
+  </div>
+  <hr>
+  <h2>Make a Payment</h2>
+  <input type="text" id="payment-amount" placeholder="Amount in ETH">
+  <button id="pay-button">Pay with MetaMask</button>
+  
+  <!-- Include Web3.js from CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/web3/dist/web3.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
