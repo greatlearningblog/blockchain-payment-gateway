@@ -1,0 +1,14 @@
+{
+  "name": "blockchain-payment-gateway",
+  "version": "1.0.0",
+  "description": "Blockchain-Based Payment Gateway using Node.js, Express, Web3.js, and Ethereum",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "web3": "^1.8.2"
+  }
+}
