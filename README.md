@@ -38,4 +38,4 @@ With the rise of cryptocurrencies and decentralized finance (DeFi), blockchain-b
    cd blockchain-payment-gateway
 
 
-**View Other such Node.js Projects:** https://www.mygreatlearning.com/blog/top-node-js-projects/
+View other such [Node.js Projects](https://www.mygreatlearning.com/blog/top-node-js-projects/)
